@@ -7,10 +7,6 @@
       "name": "Clippy",
       "publisher": "Meraki Apps",
       "tray_image_file": "tray_clippy.png",
-      "publisher_email":"clippy@merakiapps.com",
-      "publisher_website": "http://www.merakiapps.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "checking_something.webp",
