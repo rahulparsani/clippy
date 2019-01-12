@@ -101,6 +101,106 @@
           "emojis": ["✍️"]
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Merlin",
+      "publisher": "Meraki Apps",
+      "tray_image_file": "tray_merlin.png",
+      "stickers": [
+        {
+          "image_file": "announce.webp",
+          "emojis": ["📢"]
+        },
+        {
+          "image_file": "confused.webp",
+          "emojis": ["😕"]
+        },
+        {
+          "image_file": "congratulate.webp",
+          "emojis": ["🏆"]
+        },
+        {
+          "image_file": "dont_recognize.webp",
+          "emojis": ["👂"]
+        },
+        {
+          "image_file": "gesture_left.webp",
+          "emojis": ["👈"]
+        },
+        {
+          "image_file": "gesture_right.webp",
+          "emojis": ["👉"]
+        },
+        {
+          "image_file": "gesture_up.webp",
+          "emojis": ["☝️","👆","🤲"]
+        },
+        {
+          "image_file": "get_attention.webp",
+          "emojis": ["🙇‍♂️","🙇","🙇‍♀️"]
+        },
+        {
+          "image_file": "greet.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "hide.webp",
+          "emojis": ["🙈"]
+        },
+        {
+          "image_file": "idle2.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "idle3.webp",
+          "emojis": ["😫","😦"]
+        },
+        {
+          "image_file": "magic.webp",
+          "emojis": ["🧙‍♂️","🧙"]
+        },
+        {
+          "image_file": "move_left.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "move_right.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "processing.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "reading.webp",
+          "emojis": ["🤓"]
+        },
+        {
+          "image_file": "searching.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "start_listening.webp",
+          "emojis": ["👂"]
+        },
+        {
+          "image_file": "suggest.webp",
+          "emojis": ["💡"]
+        },
+        {
+          "image_file": "thinking.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "wave.webp",
+          "emojis": ["👋"]
+        },
+        {
+          "image_file": "writing.webp",
+          "emojis": ["✍️"]
+        }
+      ]
     }
   ]
 }
